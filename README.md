@@ -15,4 +15,6 @@ Insights Generated:
 8. Profit trend and forecast
 9. Profit by category
 
+View Live Report: https://public.tableau.com/app/profile/emmanuel.ikechukwu/viz/SuperstoreSalesDashboard_16762113451470/Dashboard
+
 ![profit-db](https://user-images.githubusercontent.com/88853963/220464159-052f2461-f61d-4e41-a81c-321fd194ca85.png)
